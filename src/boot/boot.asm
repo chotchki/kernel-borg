@@ -1,4 +1,4 @@
-;nasm directive - 32 bit
+;;nasm directive - 32 bit
 bits 32
 section .text
         ;multiboot spec
